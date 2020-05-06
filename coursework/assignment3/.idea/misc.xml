@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="TitlePrefix A" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix B" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix C" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix D" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix E" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix F" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix G" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix H" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix I" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix J" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix K" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix L" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix M" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix N" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix O" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix P" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix Q" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix R" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix S" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix T" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix U" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix V" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix W" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix X" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix Y" />
+      <entry_point TYPE="field" FQNAME="TitlePrefix Z" />
+    </entry_points>
+    <pattern value="TitlePrefix" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/api" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

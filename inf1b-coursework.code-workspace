@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "coursework\\assignment1"
+		},
+		{
+			"path": "coursework\\assignment3"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\lituz\\University\\INF1B\\junit\\hamcrest-core-1.3.jar",
+			"c:\\Users\\lituz\\University\\INF1B\\junit\\junit-4.13.jar"
+		]
+	}
+}
